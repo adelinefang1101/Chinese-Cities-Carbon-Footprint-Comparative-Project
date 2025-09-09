@@ -1,4 +1,6 @@
-Introduction
+*###Introduction*
+
+
 For this project, I focused on comparing the environmental impact of two oil and gas refineries in Liaoning Province, China: the Shenyang PARAFFIN-WAX Chemical Refinery and the Tieling Refinery. Both are significant players in the region’s energy sector, but like most industrial facilities, they contribute to environmental issues, primarily through emissions of CO2, CH4, and N2O. My goal was to analyze their emissions data, identify trends, and understand how these refineries compare in terms of environmental performance.
 
 I pulled emissions data from an API and cleaned it to extract the most relevant information. Then, I calculated key metrics like CO2 emissions per barrel of oil refined to get a clearer sense of the operational efficiency and environmental impact at each facility. The results showed that while both refineries contribute to local and global emissions, Tieling consistently reported higher emissions overall, as well as per barrel, compared to Shenyang. This suggests there may be differences in refinery operations, technology, or fuel usage between the two.
